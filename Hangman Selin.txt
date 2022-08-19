@@ -232,16 +232,5 @@ namespace HangMan
             Console.WriteLine("Game is over. Thanks for playing :)");
             }
 
-
-
-        
-
-
-
-
-
-
-
-
     }
 }
